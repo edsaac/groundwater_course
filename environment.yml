@@ -1,5 +1,6 @@
 name: venv
 channels:
   - gimli
+  - conda-forge
 dependencies:
   - pygimli=1.3.1
