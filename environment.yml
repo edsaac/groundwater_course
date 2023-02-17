@@ -1,7 +1,5 @@
 name: venv
 channels:
   - anaconda
-  - conda-forge
 dependencies:
   - numpy
-  - streamlit==1.18.1
