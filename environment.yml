@@ -1,4 +1,8 @@
 name: base
+channels:
+  - conda-forge
+  - gimli
+  - nodefaults
 dependencies:
-  - conda-forge::numpy
+  - gimli::pgcore
   - gimli::pygimli
